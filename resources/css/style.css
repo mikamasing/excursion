@@ -1,1 +1,17 @@
-test
+header {
+    background-color: #8B0000; /* Mørk rød bakgrunn */
+    text-align: center; /* Sentrere teksten */
+}
+
+header h1 {
+    font-family: 'Verdana', sans-serif; /* Verdana font med fallback til sans-serif */
+    font-weight: normal; /* Normal fontvekt */
+    font-size: 50px; /* 50px fontstørrelse */
+    color: white; /* Hvit tekst */
+}
+
+nav a {
+    color: aquamarine; /* Farge på lenken */
+    font-size: 16px; /* Størrelsen på teksten i lenken */
+    text-decoration: none; /* Ingen underlinje på lenken */
+}
